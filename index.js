@@ -1,2 +1,3 @@
 // write your code below!
-console.loh('Hello, World!');
+console.log('Hello, World!');
+
